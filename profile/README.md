@@ -1,12 +1,17 @@
 ## Hi there 👋
 
-<!--
+**Preventative medicine needs a platform.**
 
-**Here are some ideas to get you started:**
+Longevity research is happening, and it's happening fast. Not only do we have tools to improve longevity today, but we'll have even more tomorrow.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Yet the standard of care isn't keeping pace. Advancements in preventative medicine today may take decades to reach your doctor's office.
+
+So we're building a groundbreaking preventative medicine platform that couples the latest advancements in longevity and artificial intelligence to finally make preventative medicine a reality.
+
+Introducing **121Health**. 100 years of adult life coming your way.
+
+## Want to learn more?
+
+Our alpha launched on January 1st, 2024. You can join the waitlist for our beta [here](https://121health.app).
+
+If you want to learn more, feel free to checkout the links in our organization to find our blog, community discord, tiktok, and reddit!
