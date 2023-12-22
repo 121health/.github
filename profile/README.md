@@ -1,4 +1,4 @@
-## Preventative medicine needs a platform.**
+## Preventative medicine needs a platform.
 
 Longevity research is happening, and it's happening fast. Not only do we have tools to improve longevity today, but we'll have even more tomorrow.
 
